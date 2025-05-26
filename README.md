@@ -1,1 +1,1 @@
-A java mobile banking Emulator for service providers. This project is for education purpose for those who would wish to understand how to work with loops for shifting between options 
+A java mobile banking Emulator for service providers. This project is for education purpose for those who would wish to understand how to work with loops for shifting between options and therefore is not a copy of any service providers function. 
