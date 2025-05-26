@@ -7,10 +7,10 @@ class Operations{
 	double airtime_bal,amount;
 	int choice,rec_Num,pinc,paybil,metre,metre1,bank_acc,till,new_pin,new_pinc,bank_pinc,agent,atm_Num;
 	Scanner scan = new Scanner(System.in);
-	int pin = 2222;
+	int pin = 2222;//default pin should be in safe file
 	double balance = 2000;
 	int my_bank = 1260486766;
-	int bank_pin = 3333;
+	int bank_pin = 3333; //should be in a safe file
 	int my_Num = 711223344;
 	double bank_bal = 3000;
 	
