@@ -1,4 +1,4 @@
-package filesPAckage;
+package packList;
 
 import java.util.Scanner;
 
